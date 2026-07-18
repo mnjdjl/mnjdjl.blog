@@ -1,0 +1,12 @@
+- class_name: 加入我们
+  class_desc: How To Join us
+  link_list:
+    - name: Email
+      descr: join@oldmnj.de5.net
+
+- class_name: 友链
+  class_desc: 感谢或是推荐
+  link_list:
+    - name: Dnshe
+      link: https://my.dnshe.com/
+      descr: 免费域名
