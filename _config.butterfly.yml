@@ -217,9 +217,15 @@ reward:
     # - img: /img/wechat.jpg
     #   link:
     #   text: wechat
-    - img: https://tgpan.djlns.indevs.in/file/tgs_eyJ2IjoxLCJmIjoiQWdBQ0FnVUFBeGtCQUFNSWFsczU2NHJjOXB0RkNhSlU4NWhxaWI4V0k3VUFBbFlSYXhzZjBlQldkS2YzdVNWRWNiQUJBQU1DQUFONUFBTTlCQSIsImUiOiJqcGciLCJuIjoicGhvdG9fOC5qcGciLCJtIjoiaW1hZ2UvanBlZyIsInMiOjk5OTM1LCJ0IjoxNzg0MzYzNDk5NjQ2LCJtaWQiOjh9.2ytTFgfDUYHuQB25OZqbej_rTERlVDe7pVBAItkINyA.jpg
+    - img: https://tgpan.djlns.indevs.in/file/tgs_eyJ2IjoxLCJmIjoiQWdBQ0FnVUFBeGtCQUFNS2FseExfLTVkMWJxeUYyRzgzaXAzOWNpV3FMWUFBdXdPYXhzdGZlaFdQeXlKXzhIRGtCQUJBQU1DQUFONEFBTTlCQSIsImUiOiJqcGciLCJuIjoicGhvdG9fMTAuanBnIiwibSI6ImltYWdlL2pwZWciLCJzIjo0OTY1NCwidCI6MTc4NDQzMzY2NDA1MCwibWlkIjoxMH0.r9haHrOJX21Nt46AUhQuytSAaDfxwUkCvGP8EsGJeTw.jpg
       link:
-      text: alipay
+      text: 给作者买根雪糕
+    - img: https://tgpan.djlns.indevs.in/file/tgs_eyJ2IjoxLCJmIjoiQWdBQ0FnVUFBeGtCQUFNTGFseExfMGtlWGF0MzhzeXl3b09QQk5mUkhaNEFBdTBPYXhzdGZlaFdTUVpFZjM4SEdtc0JBQU1DQUFONEFBTTlCQSIsImUiOiJqcGciLCJuIjoicGhvdG9fMTEuanBnIiwibSI6ImltYWdlL2pwZWciLCJzIjo1MDE4MSwidCI6MTc4NDQzMzY2OTE5MSwibWlkIjoxMX0.zQWsjZ_R0MCDvY9Oz05RHGqQmaoJhP6e0dVIoCyxYxQ.jpg
+      link: 
+      text: 给作者买瓶饮料
+    - img: https://tgpan.djlns.indevs.in/file/tgs_eyJ2IjoxLCJmIjoiQWdBQ0FnVUFBeGtCQUFNTWFseExfM2ZiM1UzdVo1RVowQ0Q5NTk0OV9DUUFBdTRPYXhzdGZlaFdNZ1BUbnhxNW1ZQUJBQU1DQUFONEFBTTlCQSIsImUiOiJqcGciLCJuIjoicGhvdG9fMTIuanBnIiwibSI6ImltYWdlL2pwZWciLCJzIjo1MDg3MywidCI6MTc4NDQzMzY3NDQ4NCwibWlkIjoxMn0.oK9y0d5yNywRUuwn4SEGL0sfRL7qQm6X_kRKw1vU-xs.jpg
+      link: 
+      text: 给作者买杯咖啡
 
 # Post edit
 # Easily browse and edit blog source code online.
